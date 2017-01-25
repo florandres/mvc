@@ -5,8 +5,8 @@ public class Persona {
 	String nombre;
 	String apellido;
 	int patente;
+	
 	public Persona(int dni, String nombre, String apellido, int patente) {
-		super();
 		this.dni = dni;
 		this.nombre = nombre;
 		this.apellido = apellido;
